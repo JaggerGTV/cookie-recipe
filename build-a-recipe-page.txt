@@ -1,0 +1,36 @@
+** start of index.html **
+
+<!DOCTYPE html>
+    <head>
+    <html lang="en">  
+       <!-- html -->
+       <head>
+         </head>
+             <body>
+               </body>
+    </html>
+    <title>My Recipe</title>
+    <meta charset="UTF-8">
+    </head>
+     <h1>Cookies</h1>
+     <p>My recipe makes you cookies.</p>
+     <h2>Ingredients</h2>
+     <ul> 
+     <li> flour </li>
+     <li>sugar</li>
+     <li>shortening</li>
+     <li>eggs</li>
+     <li>butter</li>
+     </ul>
+     <h2>Instructions</h2>
+     <ol>
+     <li> Gather all of your ingredients</li>
+     <li> Mix your sugar and flour</li>
+     <li> Put the eggs in with the mix</li>
+     <li> Throw in your shortening and butter</li>
+     </ol>
+     <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt=Picture of some ingredients>
+  </body>
+
+** end of index.html **
+
